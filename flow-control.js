@@ -1,4 +1,3 @@
-
 function basicTeenager(age) {
 
 }
